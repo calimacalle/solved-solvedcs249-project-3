@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedcs249-project-3
+<br>
+Write a method in the main program to call it and show it works for various values of X and Y.In Chapter 8, “Binary Trees,” we’ll look at binary trees, where every branch has (potentially) exactly two sub-branches. Write a program that solves the knapsack problem for an arbitrary knapsack capacity and a series of weights (i.e., these should be input). Implement a recursive approach to showing all the teams that can be created from a group (n things taken k at a time).
